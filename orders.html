@@ -94,7 +94,7 @@
                         <div class="order-item-details">
                             <h4>${item.name}</h4>
                             <p>Product Code: ${productCode}</p>
-                            <p>${item.price}</p>
+                            <p>€${item.price}</p>
                             <p>Quantity: ${item.quantity}</p>
                             <p>Total: €${(parseFloat(item.price.replace('€', '').trim()) * item.quantity).toFixed(2)}</p>
                         </div>
