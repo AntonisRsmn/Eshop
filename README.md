@@ -22,24 +22,6 @@ You can see a working version at **[Live Demo](https://antonisrsmn.github.io/Esh
 - Clean and well-organized HTML/CSS structure  
 - Easily modifiable SCSS or CSS styles for theming
 
-## 🏗️ Template Structure
-Eshop-Template/
-├── data/ # Placeholder for structured data (JSON, etc.)
-├── Images/ # Product and background images
-├── node_modules/ # (If used for future dependency management)
-├── Pages/ # HTML page views and JS utilities
-│ ├── cart-utils.js # JS utility for cart logic
-│ ├── cart.html # Shopping cart UI
-│ ├── checkout.html # Checkout mock-up
-│ ├── contact.html # Contact form (static)
-│ ├── firewatch-background.png # Background image asset
-│ ├── image.png # Example product image
-│ ├── index.html # Homepage
-│ ├── orders.html # Order summary (static)
-│ └── products.html # Product listing page
-├── script.js # Global JS logic
-├── styles.css # Main stylesheet
-
 ## 🎨 Tech Stack
 
 - **HTML5** (semantic markup)  
